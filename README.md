@@ -1,4 +1,6 @@
-## Hi there 👋
+## Olá Otávio Oliveira!!!
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ot%C3%A1vio-oliveira-7107302b3/)
 
 <!--
 **OtavioOliveira-dev/OtavioOliveira-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
