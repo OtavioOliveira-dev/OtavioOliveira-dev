@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Hello! I´m  Otávio C. Oliveira
 
-**`Analista Produtos TI / Produvt Owner jr`**
+**`Analista Produtos TI / Product Owner jr`**
 
 My name is Otávio Cristhian de Oliveira, I am 32 years old and I was born in Sorocaba, SP. Actually, I’m pursuing a degree in Systems Analysis and Development at UNIP. I love technology and project management.
 
