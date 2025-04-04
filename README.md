@@ -74,7 +74,7 @@ ____
   <img 
     alt="GitHub Stats" 
     height="200" 
-    style="display: inline-block; width: 510px;" 
+    style="display: inline-block; width: 500px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioOliveira-dev&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
