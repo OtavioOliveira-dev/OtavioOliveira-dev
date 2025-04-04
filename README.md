@@ -5,6 +5,8 @@
 My name is Otávio Cristhian de Oliveira, I am 32 years old and I was born in Sorocaba, SP. Actually, I’m pursuing a degree in Systems Analysis and Development at UNIP. I love technology and project management.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ot%C3%A1vio-oliveira-7107302b3/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](otavio.cristhian93@gmail.com)
+
 
 ____
 ### 🤖 Linguagens e Tecnologias
